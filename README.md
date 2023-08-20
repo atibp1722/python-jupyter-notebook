@@ -10,3 +10,5 @@ Pandas includes getting started with pnndas library by indexing varipus types of
 Matplotlib includes getting started with the library by plotting basic lines and graphs. Using subplots to plot multiple graphs in one instance.
 
 Implementaion of data scince libraries includes reading, analyzing and representing data in visual and tabular form to find various data points. 
+
+NOTE: All programs are done using Anaconda2, so the versions of libraries are not the latest so there might be some issues and or warnings related to it. 
